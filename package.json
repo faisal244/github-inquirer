@@ -1,0 +1,19 @@
+{
+  "name": "github-inquirer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  }
+}
