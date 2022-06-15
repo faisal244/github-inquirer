@@ -125,3 +125,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< Updated upstream
+=======
+.DS_Store
+.idea/prettier.xml
+*.xml
+.idea/prettier.xml
+.idea/github-inquirer.iml
+.gitattributes
+>>>>>>> Stashed changes
